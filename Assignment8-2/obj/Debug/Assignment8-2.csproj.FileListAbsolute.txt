@@ -1,0 +1,7 @@
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\bin\Debug\Assignment8-2.exe.config
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\bin\Debug\Assignment8-2.exe
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\bin\Debug\Assignment8-2.pdb
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\obj\Debug\Assignment8-2.csproj.AssemblyReference.cache
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\obj\Debug\Assignment8-2.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\obj\Debug\Assignment8-2.exe
+C:\Mphasis\Simplilearn-P3\Day-8\Assignment8-2\Assignment8-2\obj\Debug\Assignment8-2.pdb
